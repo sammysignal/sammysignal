@@ -1,4 +1,4 @@
-### Hello!
+### Senior SWE @ LinkedIn
 
 - 🔭 I’m currently working on: Ads Rendering at LinkedIn
 - 🌱 I’m currently learning: c++ for music plugins, and AutoML
