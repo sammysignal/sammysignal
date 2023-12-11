@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: Ads Rendering at LinkedIn
 - 🌱 I’m currently learning: c++ for music plugins, and AutoML
 - 💬 Ask me about: Content Management Systems, Ads Rendering, AutoML, Music Production
-- 📫 How to reach me: sammysignal@gmail.com or leave me a voicemail at [sammy.sytes.net](https://sammy.sytes.net/)
+- 📫 How to reach me: sammysignal[at]gmail.com or leave me a voicemail at [sammy.sytes.net](https://sammy.sytes.net/)
 - 😄 Pronouns: he/him
 
 <!--
