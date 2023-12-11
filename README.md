@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello!
+
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning: c++ for music plugins, and AutoML
+- 💬 Ask me about: Content Management Systems, Ads Rendering, AutoML, Music
+- 📫 How to reach me: sammysignal@gmail.com or leave me a voicemail at [sammy.sytes.net](https://sammy.sytes.net/)
+- 😄 Pronouns: he/him
 
 <!--
 **sammysignal/sammysignal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
