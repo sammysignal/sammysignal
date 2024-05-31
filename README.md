@@ -1,4 +1,4 @@
-### Senior SWE @ LinkedIn
+### Senior SWE @ Slang
 
 - 🔭 I’m currently working on: Saving restaurants precious time with AI at Slang
 - 🌱 I’m currently learning: c++ for music plugins, and AutoML
