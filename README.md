@@ -1,8 +1,8 @@
-### Senior SWE @ Slang
+### Senior SWE @ stealth startup
 
-- 🔭 I’m currently working on: Saving restaurants precious time with AI at Slang
+- 🔭 I’m currently working on: my own stealth startup!
 - 🌱 I’m currently learning: c++ for music plugins, and AutoML
-- 💬 Ask me about: Content Management Systems, Ads Rendering, AutoML, Music Production
+- 💬 Ask me about: Content Management Systems, Ads Rendering, AutoML, Music Production, Sports Technology
 - 📫 How to reach me: sammysignal[at]gmail.com or leave me a voicemail at [sammy.sytes.net](https://sammy.sytes.net/)
 - 😄 Pronouns: he/him
 
