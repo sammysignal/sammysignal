@@ -1,8 +1,8 @@
-### Senior SWE @ stealth startup
+### CTO @ PlayMaker
 
-- 🔭 I’m currently working on: my own stealth startup!
-- 🌱 I’m currently learning: c++ for music plugins, and AutoML
-- 💬 Ask me about: Content Management Systems, Ads Rendering, AutoML, Music Production, Sports Technology
+- 🔭 I’m currently working on: [PlayMaker Software](https://www.playmaker-software.com/) - The ultimate sponsorship platform for brands and teams to manage their sponsorships!
+- 🌱 I’m currently learning: Web Scaling, Web Security (OWASP Top 10), Distributed Systems, Docker/Kubernetes
+- 💬 Ask me about: Content Management Systems, Ads Rendering, AutoML, Music Production, Sports Technology, Music plugin development, and AutoML
 - 📫 How to reach me: sammysignal[at]gmail.com or leave me a voicemail at [sammy.sytes.net](https://sammy.sytes.net/)
 - 😄 Pronouns: he/him
 
